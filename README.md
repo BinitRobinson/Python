@@ -1,2 +1,2 @@
 # Python
-Here are my python projects !
+Here are my mini projects while learning python ! 
